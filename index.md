@@ -54,19 +54,19 @@ ________________________________________________________________________________
 
 # PROJECTS
 
-### shared-world
+## **shared-world**
 
 _BigQuery, Dataproc, Cloud SQL, Cloud Storage, Django, React, Scala, Apache Spark_
 
-![image](https://user-images.githubusercontent.com/19520346/69022953-bf140d80-0a08-11ea-8eea-a9f8cc8af96b.png)
-
 [Visit the app](https://shared-world.web.app)
+
+![image](https://user-images.githubusercontent.com/19520346/69022953-bf140d80-0a08-11ea-8eea-a9f8cc8af96b.png)
 
 A cloud application solution for overtourism and promoting responsible travel by providing a platform where travellers explore destinations using a map displaying tourist-to-local ratios and view blogs filtered by their interests. It is a platform where responsible, conscientious travellers can be made. 
 
 The application was written in Django and React, deployed on Google App Engine through docker and Firebase respectively, the database hosted on Cloud SQL and the file storage on Cloud Storage. BigQuery was used to query data from the World Bank dataset, Apache Spark clusters were managed via Dataproc in which a Scala program was run using SparkSQL, as well as an Apache Zeppelin notebook for data analysis using Scala and a Jupyter notebook to create a linear regression model with PySpark. 
 
-A presentation of the project explaining the workflow and providing a demonstration can be viewed [here](https://www.youtube.com/watch?v=C7-FDgk8Jqk). This project was nominated for the best project award and was awarded the 'Best Use of Cloud' INFS3208 project in Semester 2, 2019.
+A presentation of the project explaining the workflow and providing a demonstration can be viewed [**here**](https://www.youtube.com/watch?v=C7-FDgk8Jqk). This project was nominated for the best project award and was awarded the 'Best Use of Cloud' INFS3208 project in Semester 2, 2019.
 
 There are three repositories for this project:
 1. shared-world-backend: 
@@ -79,8 +79,8 @@ There are three repositories for this project:
 - post_match: scala jar files to output post ordered by user interests using SparkSQL
 - linear_regression: pyspark code and jupyter notebook to create linear regressional model using SparkML
 
-### eventa
-### pacman
+## eventa
+## pacman
 
  `Code` text
 
