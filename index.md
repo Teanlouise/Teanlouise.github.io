@@ -1,10 +1,11 @@
 # **ABOUT ME**
 
-_A current Computer Science student and Business Management graduate with a passion for using cultural collaboration and data analysis solutions for a better future._
+![about](https://user-images.githubusercontent.com/19520346/69027712-98ab9d80-0a1b-11ea-8114-a22f73c75941.PNG)
+
+### Skills
 
 Reliable, self-motivated and proactive with excellent problem solving skills, attention to detail and passion for learning. Enthusiastic about working on diverse, collaborative teams that also believe in the endless possibilities that the collection, analysis and presentation of data has to find effective, innovative solutions that will make the world a better place. I am a self-starter who does not shy away from the challenge of learning new skills. The various projects throughout my studies highlight my strong enthusiastic and inquisitive nature regarding the world’s complex problems. I have completed projects in Python and Java using object oriented programming techniques, functional programming  in Scala for Big Data analysis in Apache Spark and proficiency with database concepts, using views in SQL to query. In addition, my extensive experience in customer service, administrative and managerial roles exhibits my outstanding interpersonal, organisational and communication skills. I thrive in a fast paced environment due to my ability to multi-task.
 
-### Skills
 ![DESIGN](https://user-images.githubusercontent.com/19520346/69026514-e8d43100-0a16-11ea-8a83-4ab70ce00c9b.jpg)
 
 ### Experience
@@ -27,11 +28,9 @@ ________________________________________________________________________________
 
 # **PROJECTS**
 
-## shared-world 
+![image](https://user-images.githubusercontent.com/19520346/69022953-bf140d80-0a08-11ea-8eea-a9f8cc8af96b.png)
 
 _BigQuery, Dataproc, Cloud SQL, Cloud Storage, Django, React, Scala, Apache Spark_
-
-![image](https://user-images.githubusercontent.com/19520346/69022953-bf140d80-0a08-11ea-8eea-a9f8cc8af96b.png)
 
 [Visit the app](https://shared-world.web.app)
 
@@ -52,7 +51,11 @@ There are three repositories for this project:
 - post_match: scala jar files to output post ordered by user interests using SparkSQL
 - linear_regression: pyspark code and jupyter notebook to create linear regressional model using SparkML
 
-## pacman
+![pacman](https://user-images.githubusercontent.com/19520346/69026999-f68ab600-0a18-11ea-9135-9c7379dafcb4.PNG)
+
+
+
+
 
  `Code` text
 
