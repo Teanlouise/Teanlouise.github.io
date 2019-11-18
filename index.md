@@ -1,20 +1,14 @@
 # **ABOUT ME**
 
-![about](https://user-images.githubusercontent.com/19520346/69027896-0ce64100-0a1c-11ea-809b-24e246c89f25.PNG)
-
+![about](https://user-images.githubusercontent.com/19520346/69028478-d7daee00-0a1d-11ea-9ed4-b032b5deaf3f.PNG)
 
 ### Skills
 
 Reliable, self-motivated and proactive with excellent problem solving skills, attention to detail and passion for learning. Enthusiastic about working on diverse, collaborative teams that also believe in the endless possibilities that the collection, analysis and presentation of data has to find effective, innovative solutions that will make the world a better place. I am a self-starter who does not shy away from the challenge of learning new skills. The various projects throughout my studies highlight my strong enthusiastic and inquisitive nature regarding the world’s complex problems. I have completed projects in Python and Java using object oriented programming techniques, functional programming  in Scala for Big Data analysis in Apache Spark and proficiency with database concepts, using views in SQL to query. In addition, my extensive experience in customer service, administrative and managerial roles exhibits my outstanding interpersonal, organisational and communication skills. I thrive in a fast paced environment due to my ability to multi-task.
 
-![DESIGN](https://user-images.githubusercontent.com/19520346/69026514-e8d43100-0a16-11ea-8a83-4ab70ce00c9b.jpg)
-
+![DESIGN (4)](https://user-images.githubusercontent.com/19520346/69028432-b24de480-0a1d-11ea-926f-005fdd5bd891.jpg)
 
 ![DESIGN (2)](https://user-images.githubusercontent.com/19520346/69028324-5edb9680-0a1d-11ea-8b90-be1be101cb47.jpg)
-
-
-![DESIGN (3)](https://user-images.githubusercontent.com/19520346/69028323-5e430000-0a1d-11ea-8fbd-7e98b9da925d.jpg)
-
 
 ### Experience
 
@@ -58,6 +52,7 @@ There are three repositories for this project:
 - data_analysis: scala code and zeppelin notebook of Spark programming
 - post_match: scala jar files to output post ordered by user interests using SparkSQL
 - linear_regression: pyspark code and jupyter notebook to create linear regressional model using SparkML
+
 
 
 
