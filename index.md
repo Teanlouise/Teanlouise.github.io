@@ -58,6 +58,8 @@ ________________________________________________________________________________
 
 _BigQuery, Dataproc, Cloud SQL, Cloud Storage, Django, React, Scala, Apache Spark_
 
+![image](https://user-images.githubusercontent.com/19520346/69022953-bf140d80-0a08-11ea-8eea-a9f8cc8af96b.png)
+
 [Visit the app](https://shared-world.web.app)
 
 A cloud application solution for overtourism and promoting responsible travel by providing a platform where travellers explore destinations using a map displaying tourist-to-local ratios and view blogs filtered by their interests. It is a platform where responsible, conscientious travellers can be made. 
@@ -76,9 +78,6 @@ There are three repositories for this project:
 - data_analysis: scala code and zeppelin notebook of Spark programming
 - post_match: scala jar files to output post ordered by user interests using SparkSQL
 - linear_regression: pyspark code and jupyter notebook to create linear regressional model using SparkML
-
-![image](https://user-images.githubusercontent.com/19520346/69022953-bf140d80-0a08-11ea-8eea-a9f8cc8af96b.png)
-
 
 ### eventa
 ### pacman
