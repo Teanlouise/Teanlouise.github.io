@@ -5,17 +5,7 @@ _A current Computer Science student and Business Management graduate with a pass
 Reliable, self-motivated and proactive with excellent problem solving skills, attention to detail and passion for learning. Enthusiastic about working on diverse, collaborative teams that also believe in the endless possibilities that the collection, analysis and presentation of data has to find effective, innovative solutions that will make the world a better place. I am a self-starter who does not shy away from the challenge of learning new skills. The various projects throughout my studies highlight my strong enthusiastic and inquisitive nature regarding the world’s complex problems. I have completed projects in Python and Java using object oriented programming techniques, functional programming  in Scala for Big Data analysis in Apache Spark and proficiency with database concepts, using views in SQL to query. In addition, my extensive experience in customer service, administrative and managerial roles exhibits my outstanding interpersonal, organisational and communication skills. I thrive in a fast paced environment due to my ability to multi-task.
 
 ### Skills
-
-![design](https://user-images.githubusercontent.com/19520346/69024944-b9222a80-0a10-11ea-89f0-d6981f49ea75.PNG)
-
-![develop](https://user-images.githubusercontent.com/19520346/69024961-bf180b80-0a10-11ea-970e-a38789a6ff17.PNG)
-
-![deploy](https://user-images.githubusercontent.com/19520346/69024963-c212fc00-0a10-11ea-9162-d0a378b03c86.PNG)
-
-![data](https://user-images.githubusercontent.com/19520346/69024976-cdfebe00-0a10-11ea-9e72-dd61abb6237b.PNG)
-
-![editor](https://user-images.githubusercontent.com/19520346/69024988-d3f49f00-0a10-11ea-9cbb-03d17a2f0176.PNG)
-
+![DESIGN](https://user-images.githubusercontent.com/19520346/69026514-e8d43100-0a16-11ea-8a83-4ab70ce00c9b.jpg)
 
 ### Experience
 
