@@ -1,4 +1,4 @@
-# ABOUT ME
+# **ABOUT ME**
 
 _A current Computer Science student and Business Management graduate with a passion for using cultural collaboration and data analysis solutions for a better future._
 
@@ -6,33 +6,16 @@ Reliable, self-motivated and proactive with excellent problem solving skills, at
 
 ### Skills
 
-**Design**: 
-- Canva
-- Pixlr
-- Logmkr.com
-- Wordpress
-- Bootstrap studio
+![design](https://user-images.githubusercontent.com/19520346/69024944-b9222a80-0a10-11ea-89f0-d6981f49ea75.PNG)
 
-**Develop**: 
-- Python
-- Django
-- React
-- Java 
-- Scala
-- SQL
+![develop](https://user-images.githubusercontent.com/19520346/69024961-bf180b80-0a10-11ea-970e-a38789a6ff17.PNG)
 
-**Deploy**: 
-- Google App Engine
-- Google Firebase 
+![deploy](https://user-images.githubusercontent.com/19520346/69024963-c212fc00-0a10-11ea-9162-d0a378b03c86.PNG)
 
-**Data**: 
-- Apache Spark
-- Google Gloud Storage
-- Google Cloud SQL
-- PHP MyADmin
-- BigQuery
-- Google Dataproc
-- Databricks
+![data](https://user-images.githubusercontent.com/19520346/69024976-cdfebe00-0a10-11ea-9e72-dd61abb6237b.PNG)
+
+![editor](https://user-images.githubusercontent.com/19520346/69024988-d3f49f00-0a10-11ea-9cbb-03d17a2f0176.PNG)
+
 
 ### Experience
 
@@ -52,15 +35,15 @@ Demonstrated advanced skills in Global Distribution System (Amadeus) and various
 
 _____________________________________________________________________________________________________________________________________
 
-# PROJECTS
+# **PROJECTS**
 
-## **shared-world**
+## shared-world 
 
 _BigQuery, Dataproc, Cloud SQL, Cloud Storage, Django, React, Scala, Apache Spark_
 
-[Visit the app](https://shared-world.web.app)
-
 ![image](https://user-images.githubusercontent.com/19520346/69022953-bf140d80-0a08-11ea-8eea-a9f8cc8af96b.png)
+
+[Visit the app](https://shared-world.web.app)
 
 A cloud application solution for overtourism and promoting responsible travel by providing a platform where travellers explore destinations using a map displaying tourist-to-local ratios and view blogs filtered by their interests. It is a platform where responsible, conscientious travellers can be made. 
 
@@ -71,15 +54,14 @@ A presentation of the project explaining the workflow and providing a demonstrat
 There are three repositories for this project:
 1. shared-world-backend: 
 - Django code 
-2.shared-world-frontend:
+2. shared-world-frontend:
 - React code
-3.shared-world-data:
+3. shared-world-data:
 - 2017_ratio: the sql queries and table for the interactive map
 - data_analysis: scala code and zeppelin notebook of Spark programming
 - post_match: scala jar files to output post ordered by user interests using SparkSQL
 - linear_regression: pyspark code and jupyter notebook to create linear regressional model using SparkML
 
-## eventa
 ## pacman
 
  `Code` text
