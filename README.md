@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# teanlouise
 
-You can use the [editor on GitHub](https://github.com/Teanlouise/teanlouise.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A current Computer Science student and Business Management graduate with a passion for using cultural collaboration and data analysis solutions for a better future.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills
 
-### Markdown
+- **Design**: Canva, Pixlr, Logmkr.com, Wordpress, Bootstrap studio
+- **Develop**: Python, Django, React, Java , Scala, SQL
+- **Deploy**: Google App Engine, Google Firebase 
+- **Data**: Apache Spark, Google Gloud Storage, Google Cloud SQL, PHP MyADmin, BigQuery, Google Datapric, Databricks
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Projects
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 1. shared-world
 
-1. Numbered
-2. List
+_BigQuery, Dataproc, Cloud SQL, Cloud Storage, Django, React, Scala, Apache Spark_
+[Shaed_world](shared-world.web.app)
 
-**Bold** and _Italic_ and `Code` text
+A cloud application solution for overtourism and promoting responsible travel by providing a platform where travellers explore destinations using a map displaying tourist-to-local ratios and view blogs filtered by their interests. It is a platform where responsible, conscientious travellers can be made. 
 
-[Link](url) and ![Image](src)
-```
+![Image](src)
+
+### 2. eventa
+### 3. pacman
+
+ `Code` text
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Teanlouise/teanlouise.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
