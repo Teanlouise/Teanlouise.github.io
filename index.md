@@ -1,14 +1,12 @@
 # **ABOUT ME**
 
-![about](https://user-images.githubusercontent.com/19520346/69028478-d7daee00-0a1d-11ea-9ed4-b032b5deaf3f.PNG)
+![about](https://user-images.githubusercontent.com/19520346/69028655-60f22500-0a1e-11ea-9141-4f6435b19504.PNG)
 
 ### Skills
 
 Reliable, self-motivated and proactive with excellent problem solving skills, attention to detail and passion for learning. Enthusiastic about working on diverse, collaborative teams that also believe in the endless possibilities that the collection, analysis and presentation of data has to find effective, innovative solutions that will make the world a better place. I am a self-starter who does not shy away from the challenge of learning new skills. The various projects throughout my studies highlight my strong enthusiastic and inquisitive nature regarding the world’s complex problems. I have completed projects in Python and Java using object oriented programming techniques, functional programming  in Scala for Big Data analysis in Apache Spark and proficiency with database concepts, using views in SQL to query. In addition, my extensive experience in customer service, administrative and managerial roles exhibits my outstanding interpersonal, organisational and communication skills. I thrive in a fast paced environment due to my ability to multi-task.
 
-![DESIGN (4)](https://user-images.githubusercontent.com/19520346/69028432-b24de480-0a1d-11ea-926f-005fdd5bd891.jpg)
-
-![DESIGN (2)](https://user-images.githubusercontent.com/19520346/69028324-5edb9680-0a1d-11ea-8b90-be1be101cb47.jpg)
+![DESIGN (5)](https://user-images.githubusercontent.com/19520346/69028662-6485ac00-0a1e-11ea-84e4-431c2e7f6e70.jpg)
 
 ### Experience
 
