@@ -62,8 +62,7 @@ _BigQuery, Dataproc, Cloud SQL, Cloud Storage, Django, React, Scala, Apache Spar
 [shared-world](https://shared-world.web.app)
 
 A cloud application solution for overtourism and promoting responsible travel by providing a platform where travellers explore destinations using a map displaying tourist-to-local ratios and view blogs filtered by their interests. It is a platform where responsible, conscientious travellers can be made. 
-
-![Image](src)
+![image](https://user-images.githubusercontent.com/19520346/69022953-bf140d80-0a08-11ea-8eea-a9f8cc8af96b.png)
 
 ### 2. eventa
 ### 3. pacman
