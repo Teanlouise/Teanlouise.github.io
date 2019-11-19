@@ -1,76 +1,39 @@
 # **ABOUT ME**
 
-![about](https://user-images.githubusercontent.com/19520346/69028655-60f22500-0a1e-11ea-9141-4f6435b19504.PNG)
-
-A current Computer Science student and Business Management graduate with a passion for using cultural collaboration and data analysis solutions for a better future.
+>A current Computer Science student and Business Management graduate with a passion for using cultural collaboration and data analysis solutions for a better future.
 
 Reliable, self-motivated and proactive with excellent problem solving skills, attention to detail and passion for learning. 
 
+I am a **self-starter** who does not shy away from the challenge of learning new skills. I thrive in a fast paced environment due to my ability to **multi-task**.
+
+The various projects throughout my studies highlight my strong **enthusiastic** and inquisitive nature regarding the world’s complex problems. I have completed projects in Python and Java using object oriented programming techniques, functional programming  in Scala for Big Data analysis in Apache Spark and proficiency with database concepts, using views in SQL to query. 
+
+
 Enthusiastic about working on diverse, collaborative teams that also believe in the endless possibilities that the collection, analysis and presentation of data has to find effective, innovative solutions that will make the world a better place. 
 
-I am a self-starter who does not shy away from the challenge of learning new skills. The various projects throughout my studies highlight my strong enthusiastic and inquisitive nature regarding the world’s complex problems. 
-
-I have completed projects in Python and Java using object oriented programming techniques, functional programming  in Scala for Big Data analysis in Apache Spark and proficiency with database concepts, using views in SQL to query. 
-
-In addition, my extensive experience in customer service, administrative and managerial roles exhibits my outstanding interpersonal, organisational and communication skills. I thrive in a fast paced environment due to my ability to multi-task.
+In addition, my extensive experience in customer service, administrative and managerial roles exhibits my outstanding interpersonal, organisational and communication skills. 
 
 ### Skills
 
 **Design**
 
-![design_image](https://user-images.githubusercontent.com/19520346/69111974-db787e80-0aca-11ea-971d-9102a408216d.PNG)
-
-- Canva
-- Pixlr
-- Logomkr
+![design_image](https://user-images.githubusercontent.com/19520346/69113956-4b3d3800-0ad0-11ea-88ac-f860dc879ecb.PNG)
 
 **Develop**
 
-![develop_image](https://user-images.githubusercontent.com/19520346/69111982-dddad880-0aca-11ea-8545-53237b5d7254.PNG)
-
-- Java
-- Scala
-- Python
-- SQL
-- Django
-- React
+![develop_image](https://user-images.githubusercontent.com/19520346/69113968-4e382880-0ad0-11ea-9e95-43dec173f05a.PNG)
 
 **Deploy**
 
-![deploy_image](https://user-images.githubusercontent.com/19520346/69111971-d9162480-0aca-11ea-835f-3d4fdf0d1165.PNG)
-- Compute Engine
-- App Engine
-- Firebase
-- Docker
-- Google Cloud Platform
+![deploy_image](https://user-images.githubusercontent.com/19520346/69113922-45475700-0ad0-11ea-8edc-0628177b5c60.PNG)
 
 **Data**
 
-![data_image](https://user-images.githubusercontent.com/19520346/69111966-d74c6100-0aca-11ea-9db8-1b3aa2e23c2d.PNG)
-
-- php MyAdmin
-- Apache Spark
-- CloudSQL
-- Cloud Storage
-- BigQuery
-- Dataproc
+![data_image](https://user-images.githubusercontent.com/19520346/69113940-48424780-0ad0-11ea-9fa9-f41d4cb9c151.PNG)
 
 I am proficient in the following text editors/interfaces and have used them in producing all of the projects in this portfolio:
 
-![interface_image](https://user-images.githubusercontent.com/19520346/69111988-e16e5f80-0aca-11ea-96c5-555508363c5e.PNG)
-
-- Zeppelin notebook
-- Jupyter notebook
-- Intellij (jetbrains)
-- Pycharm (Jetbrains)
-- Visual Studio Code
-- Sublime
-
-
-
-
-
-![DESIGN (5)](https://user-images.githubusercontent.com/19520346/69028662-6485ac00-0a1e-11ea-84e4-431c2e7f6e70.jpg)
+![interface_image](https://user-images.githubusercontent.com/19520346/69114124-6c9e2400-0ad0-11ea-8d4c-a5bb62cad70c.PNG)
 
 ### Experience
 
