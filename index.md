@@ -2,32 +2,35 @@
 
 >A current Computer Science student and Business Management graduate with a passion for using cultural collaboration and data analysis solutions for a better future.
 
-Reliable, self-motivated and proactive with excellent problem solving skills, attention to detail and passion for learning. 
+**Reliable**, self-motivated and **proactive** with excellent problem solving skills, **attention to detail** and **passion** for learning. I am a **self-starter** who does not shy away from the **challenge** of learning new skills. I thrive in a fast paced environment due to my ability to **multi-task**.
 
-I am a **self-starter** who does not shy away from the challenge of learning new skills. I thrive in a fast paced environment due to my ability to **multi-task**.
+The various projects throughout my studies highlight my strong enthusiastic and inquisitive nature regarding the world’s complex problems. I have completed projects in Python and Java using object oriented programming techniques, functional programming  in Scala for Big Data analysis in Apache Spark and proficiency with database concepts, using views in SQL to query. 
 
-The various projects throughout my studies highlight my strong **enthusiastic** and inquisitive nature regarding the world’s complex problems. I have completed projects in Python and Java using object oriented programming techniques, functional programming  in Scala for Big Data analysis in Apache Spark and proficiency with database concepts, using views in SQL to query. 
-
-
-Enthusiastic about working on diverse, collaborative teams that also believe in the endless possibilities that the collection, analysis and presentation of data has to find effective, innovative solutions that will make the world a better place. 
-
-In addition, my extensive experience in customer service, administrative and managerial roles exhibits my outstanding interpersonal, organisational and communication skills. 
+Enthusiastic about working on diverse, collaborative teams that also believe in the endless possibilities that the collection, analysis and presentation of data has to find effective, innovative solutions that will make the world a better place. In addition, my extensive experience in customer service, administrative and managerial roles exhibits my outstanding interpersonal, organisational and communication skills. 
 
 ### Skills
 
 **Design**
 
+Visually appealing
+
 ![design_image](https://user-images.githubusercontent.com/19520346/69113956-4b3d3800-0ad0-11ea-88ac-f860dc879ecb.PNG)
 
 **Develop**
+
+Effecient and clean
 
 ![develop_image](https://user-images.githubusercontent.com/19520346/69113968-4e382880-0ad0-11ea-9e95-43dec173f05a.PNG)
 
 **Deploy**
 
+Reliable and scalable
+
 ![deploy_image](https://user-images.githubusercontent.com/19520346/69113922-45475700-0ad0-11ea-8edc-0628177b5c60.PNG)
 
 **Data**
+
+Innovative solutions
 
 ![data_image](https://user-images.githubusercontent.com/19520346/69113940-48424780-0ad0-11ea-9fa9-f41d4cb9c151.PNG)
 
@@ -50,9 +53,6 @@ Demonstrated advanced skills in Global Distribution System (Amadeus) and various
 **Starlane Entertainment / Executive Assistant / 2016 - 2017**
 - Demonstrate use of advanced Microsoft Word features to edit and format multiple self-published novels for e-book and physical distribution for Amazon and several other platforms
 - Performing market research  to design and customize a personal business WordPress webpage and create content for social media to increase web traffic by 15%
-
-
-_____________________________________________________________________________________________________________________________________
 
 # **PROJECTS**
 
