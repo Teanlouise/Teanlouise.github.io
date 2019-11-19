@@ -2,15 +2,80 @@
 
 ![about](https://user-images.githubusercontent.com/19520346/69028655-60f22500-0a1e-11ea-9141-4f6435b19504.PNG)
 
+A current Computer Science student and Business Management graduate with a passion for using cultural collaboration and data analysis solutions for a better future.
+
+Reliable, self-motivated and proactive with excellent problem solving skills, attention to detail and passion for learning. 
+
+Enthusiastic about working on diverse, collaborative teams that also believe in the endless possibilities that the collection, analysis and presentation of data has to find effective, innovative solutions that will make the world a better place. 
+
+I am a self-starter who does not shy away from the challenge of learning new skills. The various projects throughout my studies highlight my strong enthusiastic and inquisitive nature regarding the world’s complex problems. 
+
+I have completed projects in Python and Java using object oriented programming techniques, functional programming  in Scala for Big Data analysis in Apache Spark and proficiency with database concepts, using views in SQL to query. 
+
+In addition, my extensive experience in customer service, administrative and managerial roles exhibits my outstanding interpersonal, organisational and communication skills. I thrive in a fast paced environment due to my ability to multi-task.
+
 ### Skills
 
-Reliable, self-motivated and proactive with excellent problem solving skills, attention to detail and passion for learning. Enthusiastic about working on diverse, collaborative teams that also believe in the endless possibilities that the collection, analysis and presentation of data has to find effective, innovative solutions that will make the world a better place. I am a self-starter who does not shy away from the challenge of learning new skills. The various projects throughout my studies highlight my strong enthusiastic and inquisitive nature regarding the world’s complex problems. I have completed projects in Python and Java using object oriented programming techniques, functional programming  in Scala for Big Data analysis in Apache Spark and proficiency with database concepts, using views in SQL to query. In addition, my extensive experience in customer service, administrative and managerial roles exhibits my outstanding interpersonal, organisational and communication skills. I thrive in a fast paced environment due to my ability to multi-task.
+**Design**
+
+![design_image](https://user-images.githubusercontent.com/19520346/69111974-db787e80-0aca-11ea-971d-9102a408216d.PNG)
+
+- Canva
+- Pixlr
+- Logomkr
+
+**Develop**
+
+![develop_image](https://user-images.githubusercontent.com/19520346/69111982-dddad880-0aca-11ea-8545-53237b5d7254.PNG)
+
+- Java
+- Scala
+- Python
+- SQL
+- Django
+- React
+
+**Deploy**
+
+![deploy_image](https://user-images.githubusercontent.com/19520346/69111971-d9162480-0aca-11ea-835f-3d4fdf0d1165.PNG)
+- Compute Engine
+- App Engine
+- Firebase
+- Docker
+- Google Cloud Platform
+
+**Data**
+
+![data_image](https://user-images.githubusercontent.com/19520346/69111966-d74c6100-0aca-11ea-9db8-1b3aa2e23c2d.PNG)
+
+- php MyAdmin
+- Apache Spark
+- CloudSQL
+- Cloud Storage
+- BigQuery
+- Dataproc
+
+I am proficient in the following text editors/interfaces and have used them in producing all of the projects in this portfolio:
+
+![interface_image](https://user-images.githubusercontent.com/19520346/69111988-e16e5f80-0aca-11ea-96c5-555508363c5e.PNG)
+
+- Zeppelin notebook
+- Jupyter notebook
+- Intellij (jetbrains)
+- Pycharm (Jetbrains)
+- Visual Studio Code
+- Sublime
+
+
+
+
 
 ![DESIGN (5)](https://user-images.githubusercontent.com/19520346/69028662-6485ac00-0a1e-11ea-84e4-431c2e7f6e70.jpg)
 
 ### Experience
 
 **STA Travel / Store Manager & Travel Expert / 2017 - 2018**
+
 _Awards: Qld Top Travel Agent– Q4 2017, Qld Top Tour Seller 2018, Qld Top Rail Seller 2018_
 
 - Oversee management of the all store bookings with an acute attention to detail to ensure accuracy and timely correspondence with both customers and suppliers at every stage of the booking process
@@ -28,7 +93,7 @@ ________________________________________________________________________________
 
 # **PROJECTS**
 
-![image](https://user-images.githubusercontent.com/19520346/69022953-bf140d80-0a08-11ea-8eea-a9f8cc8af96b.png)
+![shared-world](https://user-images.githubusercontent.com/19520346/69022953-bf140d80-0a08-11ea-8eea-a9f8cc8af96b.png)
 
 _BigQuery, Dataproc, Cloud SQL, Cloud Storage, Django, React, Scala, Apache Spark_
 
@@ -38,14 +103,16 @@ A cloud application solution for overtourism and promoting responsible travel by
 
 The application was written in Django and React, deployed on Google App Engine through docker and Firebase respectively, the database hosted on Cloud SQL and the file storage on Cloud Storage. BigQuery was used to query data from the World Bank dataset, Apache Spark clusters were managed via Dataproc in which a Scala program was run using SparkSQL, as well as an Apache Zeppelin notebook for data analysis using Scala and a Jupyter notebook to create a linear regression model with PySpark. 
 
-A presentation of the project explaining the workflow and providing a demonstration can be viewed [**here**](https://www.youtube.com/watch?v=C7-FDgk8Jqk). This project was nominated for the best project award and was awarded the 'Best Use of Cloud' INFS3208 project in Semester 2, 2019.
+This project was nominated for the best project award and was awarded the 'Best Use of Cloud' INFS3208 project in Semester 2, 2019. A live and recorded demonstrationof the project explaining the workflow was given. 
+
+[![video](https://user-images.githubusercontent.com/19520346/69110565-e4ffe780-0ac6-11ea-9157-dd93aaff754a.png)](https://www.youtube.com/watch?v=C7-FDgk8Jqk)
 
 There are three repositories for this project:
-1. shared-world-backend: 
+1. [shared-world-backend](https://teanlouise.github.io/shared-world-backend/): 
 - Django code 
-2. shared-world-frontend:
+2. [shared-world-frontend](https://teanlouise.github.io/shared-world-frontend/):
 - React code
-3. shared-world-data:
+3. [shared-world-data](https://teanlouise.github.io/shared-world-data/):
 - 2017_ratio: the sql queries and table for the interactive map
 - data_analysis: scala code and zeppelin notebook of Spark programming
 - post_match: scala jar files to output post ordered by user interests using SparkSQL
@@ -57,9 +124,3 @@ There are three repositories for this project:
 ![pacman](https://user-images.githubusercontent.com/19520346/69026999-f68ab600-0a18-11ea-9135-9c7379dafcb4.PNG)
 
 
-
-
-
- `Code` text
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
