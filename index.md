@@ -60,26 +60,17 @@ Demonstrated advanced skills in Global Distribution System (Amadeus) and various
 
 _BigQuery, Dataproc, Cloud SQL, Cloud Storage, Django, React, Scala, Apache Spark_
 
-[Visit the app](https://shared-world.web.app)
-
 A cloud application solution for overtourism and promoting responsible travel by providing a platform where travellers explore destinations using a map displaying tourist-to-local ratios and view blogs filtered by their interests. It is a platform where responsible, conscientious travellers can be made. 
 
-The application was written in Django and React, deployed on Google App Engine through docker and Firebase respectively, the database hosted on Cloud SQL and the file storage on Cloud Storage. BigQuery was used to query data from the World Bank dataset, Apache Spark clusters were managed via Dataproc in which a Scala program was run using SparkSQL, as well as an Apache Zeppelin notebook for data analysis using Scala and a Jupyter notebook to create a linear regression model with PySpark. 
+[Visit the app](https://shared-world.web.app)
 
 This project was nominated for the best project award and was awarded the 'Best Use of Cloud' INFS3208 project in Semester 2, 2019. A live and recorded demonstrationof the project explaining the workflow was given. 
 
 [![video](https://user-images.githubusercontent.com/19520346/69110565-e4ffe780-0ac6-11ea-9157-dd93aaff754a.png)](https://www.youtube.com/watch?v=C7-FDgk8Jqk)
 
-There are three repositories for this project:
-1. [shared-world-backend](https://teanlouise.github.io/shared-world-backend/): 
-- Django code 
-2. [shared-world-frontend](https://teanlouise.github.io/shared-world-frontend/):
-- React code
-3. [shared-world-data](https://teanlouise.github.io/shared-world-data/):
-- 2017_ratio: the sql queries and table for the interactive map
-- data_analysis: scala code and zeppelin notebook of Spark programming
-- post_match: scala jar files to output post ordered by user interests using SparkSQL
-- linear_regression: pyspark code and jupyter notebook to create linear regressional model using SparkML
+The application was written in Django and React, deployed on Google App Engine through docker and Firebase respectively, the database hosted on Cloud SQL and the file storage on Cloud Storage. BigQuery was used to query data from the World Bank dataset, Apache Spark clusters were managed via Dataproc in which a Scala program was run using SparkSQL, as well as an Apache Zeppelin notebook for data analysis using Scala and a Jupyter notebook to create a linear regression model with PySpark. 
+
+[** READ MORE **](https://teanlouise.github.io/shared-world) 
 
 
 
