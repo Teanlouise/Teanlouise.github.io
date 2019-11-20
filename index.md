@@ -62,17 +62,13 @@ _BigQuery, Dataproc, Cloud SQL, Cloud Storage, Django, React, Scala, Apache Spar
 
 A cloud application solution for overtourism and promoting responsible travel by providing a platform where travellers explore destinations using a map displaying tourist-to-local ratios and view blogs filtered by their interests. It is a platform where responsible, conscientious travellers can be made. 
 
-[Visit the app](https://shared-world.web.app)
-
-This project was nominated for the best project award and was awarded the 'Best Use of Cloud' INFS3208 project in Semester 2, 2019. A live and recorded demonstrationof the project explaining the workflow was given. 
-
-[![video](https://user-images.githubusercontent.com/19520346/69110565-e4ffe780-0ac6-11ea-9157-dd93aaff754a.png)](https://www.youtube.com/watch?v=C7-FDgk8Jqk)
-
-The application was written in Django and React, deployed on Google App Engine through docker and Firebase respectively, the database hosted on Cloud SQL and the file storage on Cloud Storage. BigQuery was used to query data from the World Bank dataset, Apache Spark clusters were managed via Dataproc in which a Scala program was run using SparkSQL, as well as an Apache Zeppelin notebook for data analysis using Scala and a Jupyter notebook to create a linear regression model with PySpark. 
+This project was the assessment item for INFS3208 (Cloud Computing) at University of Queensland. The [proposal](https://teanlouise.github.io/shared-world/proposal) was submitted as assignment 1 and this [implementation](https://shared-world.web.app) as assignment 2. This project was nominated for the best project award and was awarded the 'Best Use of Cloud' for the cohort. A live and recorded explanation, including demonstration of the project was given.  
 
 [**READ MORE**](https://teanlouise.github.io/shared-world) 
 
 ![pacman](https://user-images.githubusercontent.com/19520346/69026999-f68ab600-0a18-11ea-9135-9c7379dafcb4.PNG)
+
+
 
 [**READ MORE**](https://teanlouise.github.io/pacman-game/)
 
@@ -82,6 +78,8 @@ Using Python, I developed a travel destination recommendation program demonstrat
 
 [**READ MORE**](https://teanlouise.github.io/CSSE-1001-assignment-1/)
 
+![ASTEROIDS](https://user-images.githubusercontent.com/19520346/69204836-c3b8fd00-0b93-11ea-8f98-0665226a8e8b.PNG)
 
+Using basic C with Atmel Studio, a “Space Invaders” game was modified to allow push button and keyboard interaction, hit detection, speed variation and scoring on a LED matrix, seven segment display and serial terminal (puTTY). This was submitted as the project for CSSE2010 (Introduction to Computer Systems) in which I also had the opportunity to complete projects focused on logic diagrams, logic gate design and constructing logic circuits using a breadboard. 
 
-
+[**READ MORE**](https://teanlouise.github.io/CSSE2010-Project/)
