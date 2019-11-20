@@ -66,13 +66,13 @@ This project was the assessment item for INFS3208 (Cloud Computing) at Universit
 
 [**READ MORE**](https://teanlouise.github.io/shared-world) 
 
-![pacman](https://user-images.githubusercontent.com/19520346/69026999-f68ab600-0a18-11ea-9135-9c7379dafcb4.PNG)
+![pacman](https://user-images.githubusercontent.com/19520346/69231371-af492480-0bd4-11ea-8575-e47e0ef59aa9.PNG)
 
 
 
 [**READ MORE**](https://teanlouise.github.io/pacman-game/)
 
-![travel_inspiration](https://user-images.githubusercontent.com/19520346/69196910-9c563600-0b7b-11ea-9ece-85f2cd14cff0.PNG)
+![travel_inspiration](https://user-images.githubusercontent.com/19520346/69231404-bcfeaa00-0bd4-11ea-8b54-a4cf20bf992c.PNG)
 
 Using Python, I developed a travel destination recommendation program demonstrating the use of control structures and functional decomposition. It was submitted as Assignment 1 for CSSE1001 at UQ. Software design choices and documentation were a key aspect of the grading criteria.
 
