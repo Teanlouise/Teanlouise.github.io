@@ -70,11 +70,18 @@ This project was nominated for the best project award and was awarded the 'Best 
 
 The application was written in Django and React, deployed on Google App Engine through docker and Firebase respectively, the database hosted on Cloud SQL and the file storage on Cloud Storage. BigQuery was used to query data from the World Bank dataset, Apache Spark clusters were managed via Dataproc in which a Scala program was run using SparkSQL, as well as an Apache Zeppelin notebook for data analysis using Scala and a Jupyter notebook to create a linear regression model with PySpark. 
 
-[** READ MORE **](https://teanlouise.github.io/shared-world) 
-
-
-
+[**READ MORE**](https://teanlouise.github.io/shared-world) 
 
 ![pacman](https://user-images.githubusercontent.com/19520346/69026999-f68ab600-0a18-11ea-9135-9c7379dafcb4.PNG)
+
+[**READ MORE**](https://teanlouise.github.io/pacman-game/)
+
+![travel_inspiration](https://user-images.githubusercontent.com/19520346/69196910-9c563600-0b7b-11ea-9ece-85f2cd14cff0.PNG)
+
+Using Python, I developed a travel destination recommendation program demonstrating the use of control structures and functional decomposition. It was submitted as Assignment 1 for CSSE1001 at UQ. Software design choices and documentation were a key aspect of the grading criteria.
+
+[**READ MORE**](https://teanlouise.github.io/CSSE-1001-assignment-1/)
+
+
 
 
