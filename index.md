@@ -62,24 +62,24 @@ _BigQuery, Dataproc, Cloud SQL, Cloud Storage, Django, React, Scala, Apache Spar
 
 A cloud application solution for overtourism and promoting responsible travel by providing a platform where travellers explore destinations using a map displaying tourist-to-local ratios and view blogs filtered by their interests. It is a platform where responsible, conscientious travellers can be made. 
 
-This project was the assessment item for INFS3208 (Cloud Computing) at University of Queensland. The [proposal](https://teanlouise.github.io/shared-world/proposal) was submitted as assignment 1 and this [implementation](https://shared-world.web.app) as assignment 2. This project was nominated for the best project award and was awarded the 'Best Use of Cloud' for the cohort. A live and recorded explanation, including demonstration of the project was given.  
+This project was the assessment item for **Cloud Computing** (INFS3208) at University of Queensland. The [proposal](https://teanlouise.github.io/shared-world/proposal) was submitted as assignment 1 and this implementation as assignment 2. Both assessment pieces recieved full marks. In addition the project was nominated for the best project award and was awarded the 'Best Use of Cloud' for the cohort (62 projects submitted). A live and recorded explanation, including demonstration of the project was given.  
 
 [**READ MORE**](https://teanlouise.github.io/shared-world) 
 
 ![pacman](https://user-images.githubusercontent.com/19520346/69231371-af492480-0bd4-11ea-8575-e47e0ef59aa9.PNG)
 
-
+This version of the traditional 'Pacman' game was implemented over the course of three assignments for **Programming in the Large** (CSSE2002) at University of Queensland. The overall goal of the project was to gain confidence with writing, reading and testing code in Java that expands multiple classes. The marking criteria was according to correct functionality (55%), code review (25%) and successful tests (20%). Each assignment received a high distinction.
 
 [**READ MORE**](https://teanlouise.github.io/pacman-game/)
 
 ![travel_inspiration](https://user-images.githubusercontent.com/19520346/69231404-bcfeaa00-0bd4-11ea-8b54-a4cf20bf992c.PNG)
 
-Using Python, I developed a travel destination recommendation program demonstrating the use of control structures and functional decomposition. It was submitted as Assignment 1 for CSSE1001 at UQ. Software design choices and documentation were a key aspect of the grading criteria.
+Using Python, I developed a travel destination recommendation program demonstrating the use of control structures and functional decomposition. It was submitted as Assignment 1 for **Introduction to Software Engineering** (CSSE1001) at University of Queensland. Software design choices and documentation were a key aspect of the grading criteria. This assessment received a High Distinction, and all feedback has been applied in this solution.
 
 [**READ MORE**](https://teanlouise.github.io/CSSE-1001-assignment-1/)
 
 ![ASTEROIDS](https://user-images.githubusercontent.com/19520346/69204836-c3b8fd00-0b93-11ea-8f98-0665226a8e8b.PNG)
 
-Using basic C with Atmel Studio, a “Space Invaders” game was modified to allow push button and keyboard interaction, hit detection, speed variation and scoring on a LED matrix, seven segment display and serial terminal (puTTY). This was submitted as the project for CSSE2010 (Introduction to Computer Systems) in which I also had the opportunity to complete projects focused on logic diagrams, logic gate design and constructing logic circuits using a breadboard. 
+Using basic C with Atmel Studio, a “Space Invaders” game was modified to allow push button and keyboard interaction, hit detection, speed variation and scoring on a LED matrix, seven segment display and serial terminal (puTTY). This was submitted as the project for **Introduction to Computer Systems** (CSSE2010) in which I also had the opportunity to complete projects focused on logic diagrams, logic gate design and constructing logic circuits using a breadboard. 
 
 [**READ MORE**](https://teanlouise.github.io/CSSE2010-Project/)
