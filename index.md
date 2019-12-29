@@ -70,7 +70,7 @@ This project was the assessment item for **Cloud Computing** (INFS3208) at Unive
 
 This version of the traditional 'Pacman' game was implemented over the course of three assignments for **Programming in the Large** (CSSE2002) at University of Queensland. The overall goal of the project was to gain confidence with writing, reading and testing code in Java that expands multiple classes. The marking criteria was according to correct functionality (55%), code review (25%) and successful tests (20%). Each assignment received a high distinction.
 
-[**READ MORE**](https://teanlouise.github.io/pacman-game/)
+[**READ MORE**](https://teanlouise.github.io/Pacman-Game/)
 
 ![travel_inspiration](https://user-images.githubusercontent.com/19520346/69231404-bcfeaa00-0bd4-11ea-8b54-a4cf20bf992c.PNG)
 
