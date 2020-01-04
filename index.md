@@ -56,7 +56,7 @@ Demonstrated advanced skills in Global Distribution System (Amadeus) and various
 
 # **PROJECTS**
 
-![shared-world](https://user-images.githubusercontent.com/19520346/69022953-bf140d80-0a08-11ea-8eea-a9f8cc8af96b.png)
+![shared_world_title](https://user-images.githubusercontent.com/19520346/71760556-3f37f900-2f0b-11ea-80ef-63285f96b486.PNG)
 
 _BigQuery, Dataproc, Cloud SQL, Cloud Storage, Django, React, Scala, Apache Spark_
 
@@ -66,20 +66,38 @@ This project was the assessment item for **Cloud Computing** (INFS3208) at Unive
 
 [**READ MORE**](https://teanlouise.github.io/shared-world) 
 
-![pacman](https://user-images.githubusercontent.com/19520346/69231371-af492480-0bd4-11ea-8575-e47e0ef59aa9.PNG)
+![pacman_game_title](https://user-images.githubusercontent.com/19520346/71760528-d0f33680-2f0a-11ea-8c11-86afaa22551c.PNG)
 
 This version of the traditional 'Pacman' game was implemented over the course of three assignments for **Programming in the Large** (CSSE2002) at University of Queensland. The overall goal of the project was to gain confidence with writing, reading and testing code in Java that expands multiple classes. The marking criteria was according to correct functionality (55%), code review (25%) and successful tests (20%). Each assignment received a high distinction.
 
 [**READ MORE**](https://teanlouise.github.io/Pacman-Game/)
 
-![travel_inspiration](https://user-images.githubusercontent.com/19520346/69231404-bcfeaa00-0bd4-11ea-8b54-a4cf20bf992c.PNG)
+![travel_inspo_title](https://user-images.githubusercontent.com/19520346/71760553-3b0bdb80-2f0b-11ea-80a5-aa457081812f.PNG)
 
 Using Python, I developed a travel destination recommendation program demonstrating the use of control structures and functional decomposition. It was submitted as Assignment 1 for **Introduction to Software Engineering** (CSSE1001) at University of Queensland. Software design choices and documentation were a key aspect of the grading criteria. This assessment received a High Distinction, and all feedback has been applied in this solution.
 
 [**READ MORE**](https://teanlouise.github.io/CSSE-1001-assignment-1/)
 
-![ASTEROIDS](https://user-images.githubusercontent.com/19520346/69204836-c3b8fd00-0b93-11ea-8f98-0665226a8e8b.PNG)
+![asteroids_title](https://user-images.githubusercontent.com/19520346/71760555-3cd59f00-2f0b-11ea-8898-5d0e1483d9aa.PNG)
 
 Using basic C with Atmel Studio, a “Space Invaders” game was modified to allow push button and keyboard interaction, hit detection, speed variation and scoring on a LED matrix, seven segment display and serial terminal (puTTY). This was submitted as the project for **Introduction to Computer Systems** (CSSE2010) in which I also had the opportunity to complete projects focused on logic diagrams, logic gate design and constructing logic circuits using a breadboard. 
 
 [**READ MORE**](https://teanlouise.github.io/CSSE2010-Project/)
+
+![blackjack](https://user-images.githubusercontent.com/19520346/71759847-58d34380-2eff-11ea-8ac5-f833cc0d988c.PNG)
+
+A simple blackjack game. This was completed as the milestone 2 project for Jose Portilla's "Zero-to-Hero Python" course. Basic Python functionality inlcuding Object-Oriented programming practices were used to implement this project.
+
+[**READ MORE**](https://teanlouise.github.io/Blackjack/)
+
+![tic_tac_toe_title](https://user-images.githubusercontent.com/19520346/71760513-a43f1f00-2f0a-11ea-907e-323e156e2154.PNG)
+
+A simple tic-tac-toe game. This was completed as the milestone 1 project for Jose Portilla's "Zero-to-Hero Python" course. This is the first project completed in Python. Use basic functional structure.
+
+[**READ MORE**](https://teanlouise.github.io/Tic-Tac-Toe/)
+
+
+
+
+
+
