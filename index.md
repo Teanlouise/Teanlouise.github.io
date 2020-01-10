@@ -96,7 +96,11 @@ A simple tic-tac-toe game. This was completed as the milestone 1 project for Jos
 
 [**READ MORE**](https://teanlouise.github.io/Tic-Tac-Toe/)
 
+![distributions_title](https://user-images.githubusercontent.com/19520346/72115324-60c53480-3392-11ea-81ce-44032537a75d.png)
 
+This package has functionality for different types of distribution frameworks. There is currently has functionality for Binomial and Guassian distributions. Uploaded on pypi.org as part of an exercise for Udacity Machine Learning Engineer Nanodegree Program (Part 1).
+
+[**READ MORE**](https://teanlouise.github.io/distributions_package/)
 
 
 
