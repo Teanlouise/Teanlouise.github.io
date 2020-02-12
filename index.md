@@ -64,7 +64,7 @@ A cloud application solution for overtourism and promoting responsible travel by
 
 This project was the assessment item for **Cloud Computing** (INFS3208) at University of Queensland. The [proposal](https://teanlouise.github.io/shared-world/proposal) was submitted as assignment 1 and this implementation as assignment 2. Both assessment pieces recieved full marks. In addition the project was nominated for the best project award and was awarded the 'Best Use of Cloud' for the cohort (62 projects submitted). A live and recorded explanation, including demonstration of the project was given.  
 
-[**READ MORE**](https://teanlouise.github.io/shared-world) 
+[**READ MORE**](https://teanlouise.github.io/Shared-World) 
 
 ![pacman_game_title](https://user-images.githubusercontent.com/19520346/71760528-d0f33680-2f0a-11ea-8c11-86afaa22551c.PNG)
 
@@ -100,16 +100,11 @@ A simple blackjack game. This was completed as the milestone 2 project for Jose 
 
 This package has functionality for different types of distribution frameworks. There is currently has functionality for Binomial and Guassian distributions. Uploaded on **pypi.org** as part of an exercise for Udacity Machine Learning Engineer Nanodegree Program (Part 1).
 
-[**READ MORE**](https://teanlouise.github.io/distributions_package/)
+[**READ MORE**](https://teanlouise.github.io/Distributions-Package/)
 
 ![tic_tac_toe_title](https://user-images.githubusercontent.com/19520346/71760513-a43f1f00-2f0a-11ea-907e-323e156e2154.PNG)
 
 A simple tic-tac-toe game. This was completed as the milestone 1 project for Jose Portilla's "Zero-to-Hero Python" course. This is the first project completed in Python. Use basic functional structure.
 
 [**READ MORE**](https://teanlouise.github.io/Tic-Tac-Toe/)
-
-
-
-
-
 
