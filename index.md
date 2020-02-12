@@ -72,23 +72,35 @@ This version of the traditional 'Pacman' game was implemented over the course of
 
 [**READ MORE**](https://teanlouise.github.io/Pacman-Game/)
 
-![travel_inspo_title](https://user-images.githubusercontent.com/19520346/71760553-3b0bdb80-2f0b-11ea-80a5-aa457081812f.PNG)
-
-Using Python, I developed a travel destination recommendation program demonstrating the use of control structures and functional decomposition. It was submitted as Assignment 1 for **Introduction to Software Engineering** (CSSE1001) at University of Queensland. Software design choices and documentation were a key aspect of the grading criteria. This assessment received a High Distinction, and all feedback has been applied in this solution.
-
-[**READ MORE**](https://teanlouise.github.io/CSSE-1001-assignment-1/)
-
 ![asteroids_title](https://user-images.githubusercontent.com/19520346/71760555-3cd59f00-2f0b-11ea-8898-5d0e1483d9aa.PNG)
 
 Using basic C with Atmel Studio, a “Space Invaders” game was modified to allow push button and keyboard interaction, hit detection, speed variation and scoring on a LED matrix, seven segment display and serial terminal (puTTY). This was submitted as the project for **Introduction to Computer Systems** (CSSE2010) in which I also had the opportunity to complete projects focused on logic diagrams, logic gate design and constructing logic circuits using a breadboard. 
 
-[**READ MORE**](https://teanlouise.github.io/CSSE2010-Project/)
+[**READ MORE**](https://teanlouise.github.io/Asteroids/)
+
+![travel_inspo_title](https://user-images.githubusercontent.com/19520346/71760553-3b0bdb80-2f0b-11ea-80a5-aa457081812f.PNG)
+
+Using Python, I developed a travel destination recommendation program demonstrating the use of control structures and functional decomposition. It was submitted as Assignment 1 for **Introduction to Software Engineering** (CSSE1001) at University of Queensland. Software design choices and documentation were a key aspect of the grading criteria. This assessment received a High Distinction, and all feedback has been applied in this solution.
+
+[**READ MORE**](https://teanlouise.github.io/Travel-Inspiration/)
+
+![exoplanet_title](https://user-images.githubusercontent.com/19520346/73152900-5a1e1780-411d-11ea-9ec3-d88945a6fed0.PNG)
+
+An interactive space exhibit for a musuem was designed using basic python skills, and communicated to both science rookies and enthusiasts. This project was submitted as the Python and Communication Assignment for **Theory & Practice in Science** (SCIE1000) at the University of Queensland. The project received full marks. Understanding of mathematical modelling, using python at basic level, commenting to a high standard and communicating effectively to the audiences were the key marking criteria.
+
+[**READ MORE**](https://teanlouise.github.io/Exploring-Our-Galaxy/)
 
 ![blackjack](https://user-images.githubusercontent.com/19520346/71759847-58d34380-2eff-11ea-8ac5-f833cc0d988c.PNG)
 
-A simple blackjack game. This was completed as the milestone 2 project for Jose Portilla's "Zero-to-Hero Python" course. Basic Python functionality inlcuding Object-Oriented programming practices were used to implement this project.
+A simple blackjack game. This was completed as the milestone 2 project for Jose Portilla's "Zero-to-Hero Python" course. Basic Python functionality inlcuding Object-Oriented programming practices were used to implement this project. Multiple tests were written in pytest and setup for automatic testing with **Travis CI**.
 
 [**READ MORE**](https://teanlouise.github.io/Blackjack/)
+
+![distributions_title](https://user-images.githubusercontent.com/19520346/72115324-60c53480-3392-11ea-81ce-44032537a75d.png)
+
+This package has functionality for different types of distribution frameworks. There is currently has functionality for Binomial and Guassian distributions. Uploaded on **pypi.org** as part of an exercise for Udacity Machine Learning Engineer Nanodegree Program (Part 1).
+
+[**READ MORE**](https://teanlouise.github.io/distributions_package/)
 
 ![tic_tac_toe_title](https://user-images.githubusercontent.com/19520346/71760513-a43f1f00-2f0a-11ea-907e-323e156e2154.PNG)
 
@@ -96,11 +108,7 @@ A simple tic-tac-toe game. This was completed as the milestone 1 project for Jos
 
 [**READ MORE**](https://teanlouise.github.io/Tic-Tac-Toe/)
 
-![distributions_title](https://user-images.githubusercontent.com/19520346/72115324-60c53480-3392-11ea-81ce-44032537a75d.png)
 
-This package has functionality for different types of distribution frameworks. There is currently has functionality for Binomial and Guassian distributions. Uploaded on pypi.org as part of an exercise for Udacity Machine Learning Engineer Nanodegree Program (Part 1).
-
-[**READ MORE**](https://teanlouise.github.io/distributions_package/)
 
 
 
