@@ -8,37 +8,7 @@ The various projects throughout my studies highlight my strong enthusiastic and 
 
 Enthusiastic about working on diverse, collaborative teams that also believe in the endless possibilities that the collection, analysis and presentation of data has to find effective, innovative solutions that will make the world a better place. In addition, my extensive experience in customer service, administrative and managerial roles exhibits my outstanding interpersonal, organisational and communication skills. 
 
-### Skills
-
-**Design**
-
-Visually appealing
-
-![design_image](https://user-images.githubusercontent.com/19520346/69113956-4b3d3800-0ad0-11ea-88ac-f860dc879ecb.PNG)
-
-**Develop**
-
-Effecient and clean
-
-![develop_image](https://user-images.githubusercontent.com/19520346/69113968-4e382880-0ad0-11ea-9e95-43dec173f05a.PNG)
-
-**Deploy**
-
-Reliable and scalable
-
-![deploy_image](https://user-images.githubusercontent.com/19520346/69113922-45475700-0ad0-11ea-8edc-0628177b5c60.PNG)
-
-**Data**
-
-Innovative solutions
-
-![data_image](https://user-images.githubusercontent.com/19520346/69113940-48424780-0ad0-11ea-9fa9-f41d4cb9c151.PNG)
-
-I am proficient in the following text editors/interfaces and have used them in producing all of the projects in this portfolio:
-
-![interface_image](https://user-images.githubusercontent.com/19520346/69114124-6c9e2400-0ad0-11ea-8d4c-a5bb62cad70c.PNG)
-
-### Experience
+### Work Experience
 
 **STA Travel / Store Manager & Travel Expert / 2017 - 2018**
 
@@ -108,3 +78,19 @@ A simple tic-tac-toe game. This was completed as the milestone 1 project for Jos
 
 [**READ MORE**](https://teanlouise.github.io/Tic-Tac-Toe/)
 
+# **SKILLS**
+
+**Languages**
+![languages](https://user-images.githubusercontent.com/19520346/75623627-8daa0100-5bf7-11ea-9835-0ccdc5435b59.png)
+
+**Testing and Validation**
+![testing](https://user-images.githubusercontent.com/19520346/75623626-8d116a80-5bf7-11ea-9293-26485d65ae1f.png)
+
+**Cloud Deployment**
+![cloud](https://user-images.githubusercontent.com/19520346/75623625-8c78d400-5bf7-11ea-8e43-792a34dfd709.png)
+
+**Data Management**
+![datas](https://user-images.githubusercontent.com/19520346/75623624-8b47a700-5bf7-11ea-8349-07111777f147.png)
+
+**Code Editor**
+![editor](https://user-images.githubusercontent.com/19520346/75623648-c9dd6180-5bf7-11ea-8527-525d205f1dd4.png)
