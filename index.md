@@ -1,12 +1,18 @@
 # **ABOUT ME**
 
->A current Computer Science student and Business Management graduate with a passion for using cultural collaboration and data analysis solutions for a better future.
+>Hi! My name is Tean and while I may not meet all your tick boxes now, I will. I am a current Computer Science student and Business Management graduate with a passion for using cultural collaboration and data analysis solutions for a better future.
 
-**Reliable**, self-motivated and **proactive** with excellent problem solving skills, **attention to detail** and **passion** for learning. I am a **self-starter** who does not shy away from the **challenge** of learning new skills. I thrive in a fast paced environment due to my ability to **multi-task**.
+**I love a challenge.** 
 
-The various projects throughout my studies highlight my strong enthusiastic and inquisitive nature regarding the world’s complex problems. I have completed projects in Python and Java using object oriented programming techniques, functional programming  in Scala for Big Data analysis in Apache Spark and proficiency with database concepts, using views in SQL to query. 
+When I started at STA Travel I had no idea how to be a travel agent, but after just 9 months I was promoted to Store Manager after being named top travel agent in Queensland for 2017. 
 
-Enthusiastic about working on diverse, collaborative teams that also believe in the endless possibilities that the collection, analysis and presentation of data has to find effective, innovative solutions that will make the world a better place. In addition, my extensive experience in customer service, administrative and managerial roles exhibits my outstanding interpersonal, organisational and communication skills. 
+**I am self-motivated.**
+
+In addition to my university studies, I have learnt how to use git effectively, github pages, create pypi packages, pytest and TravisCI through online resources. 
+
+**I have a passion for learning.**
+
+While other teams completed their cloud web applications, I built Shared World individually with Django and React with no prior knowledge and was awarded ‘Best Use of Cloud’ for my cohort.
 
 ### Work Experience
 
