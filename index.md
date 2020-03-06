@@ -40,7 +40,7 @@ A cloud application solution for overtourism and promoting responsible travel by
 
 This project was the assessment item for **Cloud Computing** (INFS3208) at University of Queensland. The [proposal](https://teanlouise.github.io/shared-world/proposal) was submitted as assignment 1 and this implementation as assignment 2. Both assessment pieces recieved full marks. In addition the project was nominated for the best project award and was awarded the 'Best Use of Cloud' for the cohort (62 projects submitted). A live and recorded explanation, including demonstration of the project was given.  
 
-[**READ MORE**](https://teanlouise.github.io/Shared-World) 
+[**READ MORE**](https://teanlouise.github.io/shared-world) 
 
 ![pacman_game_title](https://user-images.githubusercontent.com/19520346/71760528-d0f33680-2f0a-11ea-8c11-86afaa22551c.PNG)
 
