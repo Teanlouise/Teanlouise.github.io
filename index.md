@@ -1,6 +1,6 @@
 # **ABOUT ME**
 
->Hi! My name is Tean and while I may not meet all your tick boxes now, I will. I am a current Computer Science student and Business Management graduate with a passion for using cultural collaboration and data analysis solutions for a better future.
+>Hi! My name is Tean and while I may not meet all your tick boxes now, I will. I am a current Computer Science student and Business Management graduate with a passion for collaborating and problem solving to find the best solutions for a better future.
 
 **I love a challenge.** 
 
